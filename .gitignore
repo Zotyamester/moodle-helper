@@ -1,0 +1,5 @@
+*.env
+# Every txt except for requirements.txt
+*.txt
+!requirements.txt
+*.pdf
